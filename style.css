@@ -1,0 +1,115 @@
+ body{
+    /* background-color: aquamarine; */
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header{
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+
+}
+h1{
+    font-size: 5.6rem;
+    margin: 50px auto 0 auto ;
+    font-family: 'Sacramento',sans-serif;
+    color: #66BFBF;
+    line-height: 2;
+}
+h2{
+    font-size: 2.5rem;
+    color: #66BFBF
+    ;
+}
+h3{
+    color: #11999e;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+.bottom-cloud{
+position: absolute;
+left: 300px;
+bottom: 300px;
+}
+.middle{
+    margin: 100px 0;
+    width: 100%;
+    height: auto;
+}
+.profile-img{
+    border-radius: 50%;
+    width: 15%;
+    height: 15%;
+    margin: auto;
+}
+p{
+    line-height: 2;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+hr{
+    border: dotted#EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+
+}
+.code-img{
+    width: 35%;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+
+}
+.sec-img{
+    width: 35%;
+    border-radius: 50%;
+    float: right;
+    margin-left: 30px;
+}
+.contact-me{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.btn{
+    background-color: paleturquoise ;
+    text-decoration: none;
+    width: 100px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+.btn:hover{
+    color: #000;
+}
+
+.bottom{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+a{
+     color: #11999e;
+     margin: 10px 20px;
+     text-decoration: none;
+
+}
+a:hover{
+    color: papayawhip;
+}
+.copyright{
+    color: #EAF6F6;
+}
